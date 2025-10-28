@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://gifdb.com/gif/animated-programmer-guy-coding-790a0bs8e8thpisg.html?embed=true](https://media.gifdb.com/animated-programmer-guy-coding-790a0bs8e8thpisg.gif)" alt="Developer at work" width="400"/>
+  <img src="https://media.gifdb.com/animated-programmer-guy-coding-790a0bs8e8thpisg.gif" alt="Developer at work" width="400"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Ivan</h1>
