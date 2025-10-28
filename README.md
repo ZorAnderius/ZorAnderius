@@ -47,7 +47,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZorAnderius&theme=tokyonight&hide_border=true" height="150" alt="GitHub streak stats" />
+   <img src="https://github-readme-stats.vercel.app/api?username=ZorAnderius&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub stats" />
 </p>
 
 ---
@@ -55,20 +55,10 @@
 ### 🏆 Achievements & Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ZorAnderius&theme=onedark&margin-w=10&margin-h=10&no-frame=true" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zoranderius&theme=onedark&margin-w=10&margin-h=10&no-frame=true" alt="GitHub trophies" />
 </p>
 
 ---
-
-### Connect With Me
-<p align="center">
-  <a href="mailto:ostrovka123@gmail.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://t.me/AshAlTor" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-</p>
 
 ---
 
