@@ -46,9 +46,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZorAnderius&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top languages" />
 </p>
 
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=ZorAnderius&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub stats" />
-</p>
 
 ---
 
@@ -57,8 +54,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=zoranderius&theme=onedark&margin-w=10&margin-h=10&no-frame=true" alt="GitHub trophies" />
 </p>
-
----
 
 ---
 
