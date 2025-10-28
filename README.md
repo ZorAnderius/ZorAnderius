@@ -1,6 +1,12 @@
-<!-- Header -->
-<h1 align="center">👋 Hi, I'm Ivan Ostrovka</h1>
-<h3 align="center">💻 A passionate Full Stack Developer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=F78DA7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Web+App+Enthusiast;Clean+Code+Advocate" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.tenor.com/mM9zIXYnDOdAAAAC/programmer.gif" alt="Developer at work" width="400"/>
+</p>
+
+<h1 align="center">👋 Hi, I'm Ivan</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zoranderius&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
